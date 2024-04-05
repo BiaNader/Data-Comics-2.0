@@ -1,4 +1,5 @@
-Thank you for using our template!
+Site para ler quadrinhos usando template!
+
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
 
